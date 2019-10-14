@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FF9800</color>
+    <color name="colorPrimaryDark">#FF9800</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="bg">#333333</color>
+    <color name="layout_bg">#00BCD4</color>
+    <color name="text_color">#05004e</color>
+    <color name="button_color">#00BCD4</color>
+    <color name="button_color_pressed">#454646</color>
+    <dimen name="button_margin">16dp</dimen>
+    <dimen name="textSize">60sp</dimen>
+    <dimen name="textSizeTow">45sp</dimen>
+    <dimen name="textSizeThree">25sp</dimen>
+    <color name="board_bg">#212121</color>
+    <color name="button_x_o">#F70053</color>
+    <color name="button_default_color">#00BCD4</color>
+    <color name="mesage_color">#F44336</color>
+    <color name="buttonMode">#3161a3</color>
+</resources>
