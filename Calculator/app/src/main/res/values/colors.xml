@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#E65100</color>
+    <color name="colorPrimaryDark">#0F7CF0</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="white">#ffffff</color>
+    <color name="bg">#333333</color>
+    <color name="buttonColor">#444444</color>
+    <color name="buttonColor_pressed">#757575</color>
+    <color name="buttonUst">#FF6D00</color>
+     <color name="buttonYan">#333333</color>
+    <dimen name="buttonMargin">0dp</dimen>
+
+</resources>
